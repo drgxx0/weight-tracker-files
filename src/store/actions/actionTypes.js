@@ -1,0 +1,7 @@
+export const ROUTE = 'ROUTE'
+export const SET_NAME = 'SET_NAME'
+export const SET_DATA = 'SET_DATA'
+export const UPDATE_WEIGHT = 'UPDATE_WEIGHT'
+export const TRACKER_ROUTER = 'TRACKER_ROUTER'
+export const HISTORY = 'HISTORY'
+export const ADD_TO_HISTORY = 'ADD_TO_HISTORY'
